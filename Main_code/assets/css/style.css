@@ -28,9 +28,14 @@ header {
   justify-content: space-between;
   padding: 20px;
   height: 75px;
-  background-color: crimson;
+  background-color: tan;
   align-items: center;
 
+}
+
+h1 {
+  /* font-family:Copperplate, fantasy; */
+  color: azure;
 }
 
 header nav ul {
@@ -51,6 +56,41 @@ header nav ul li a {
   border: 2px solid white;
   border-radius: 5px;
   padding: 10px;
+}
+
+/* hero banner */
+.hero-banner {
+  background-image: url(../images/laptop_notebook.jpg);
+  height: 600px;
+  background-position: center;
+  /* display: flex;
+  align-items: center; */
+  justify-content: space-around;
+  background-size: cover;
+}
+
+/* picture of me */
+img {
+  display: flex;
+  align-items: left;
+  border-radius: 100%;  
+  border: 3px solid tan;
+  height: 300px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+/* famous quote */
+.hero-banner .quote {
+  display: flex;
+  text-align: bottom;
+  justify-content: left;
+  font-size: 35px;
+  font-family: lucida handwriting;
+  color: tan;
+  position: absolute;
+  bottom: 70px;
+  left: 16px;
 }
 
 
