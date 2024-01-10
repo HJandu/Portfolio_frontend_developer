@@ -1,4 +1,7 @@
-# <ins>My Portfolio<ins/>
+# <p align="center"><ins>My Portfolio<ins/></p>
+<p align="center">
+<img src="assets/images/avatar HJ.jpg" width=500 height=300>
+</p>
 
 ## <ins>Task<ins/>
 Here I have built a portfolio page using HTML and CSS. A portfolio of work where you can see my skills and talents.
