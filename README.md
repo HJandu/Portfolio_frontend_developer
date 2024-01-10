@@ -11,3 +11,5 @@ You will see the following on the portfolio page:
 * When images of the applications are clicked then the user is taken to that deployed application
 * When the page is resized or viewed on various screens and devices then the layout is responsive and adapts to your viewport
 
+
+Click [here](https://hjandu.github.io/Portfolio_frontend_developer/) to view the portfolio page
